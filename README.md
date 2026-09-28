@@ -1,3 +1,3 @@
 # dab_bakehouse
 
-This Repo is for the bakehouse analytics
+This Repo is for the bakehouse analytics.
